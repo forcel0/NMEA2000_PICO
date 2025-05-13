@@ -1,6 +1,6 @@
 # NMEA2000_PICO
 This library provides Raspberry Pi Pico boards w/ an Adafruit PiCow CAN hat driver for the NMEA2000 library
-This library is in eearly stage developement. End goal is to support other CAN hats for the Pi Pico
+This library is in early stage developement. End goal is to support other CAN hats for the Pi Pico
 
 See https://github.com/ttlappalainen/NMEA2000.
 
